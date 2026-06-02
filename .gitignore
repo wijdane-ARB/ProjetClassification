@@ -1,0 +1,18 @@
+﻿# Large data files
+data/raw/
+data/processed/
+*.csv
+*.npy
+*.pkl
+
+# Model files
+models/*.pkl
+models/*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE folders
+.vscode/
+.idea/
